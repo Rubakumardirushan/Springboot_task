@@ -6,8 +6,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 
-import java.util.List;
-
 import com.examplediru.demo17.model.Task;
 import com.examplediru.demo17.Repositary.TaskRepositary;
 
